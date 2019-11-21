@@ -1,0 +1,20 @@
+{
+  "name": "@lamansky/styles",
+  "version": "1.0.0",
+  "description": "A small library of commonly-used stylesheet rules, packaged as a Sass module.",
+  "keywords": [
+    "sass",
+    "scss",
+    "mixins",
+    "library"
+  ],
+  "author": {
+    "name": "Fr. John Lamansky",
+    "url": "lamansky.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/lamansky/styles",
+  "repository": "lamansky/styles",
+  "main": "_index.scss",
+  "files": []
+}
